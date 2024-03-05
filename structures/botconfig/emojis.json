@@ -1,0 +1,72 @@
+{
+  "y": "✅",
+  "m": "ℹ️",
+  "x": "❌",
+  "arrow": "",
+    "help":{
+    "cate": "📛",
+    "info": "ℹ️",
+    "music": "🎵",
+    "setup": "⚙️",
+    "mod": "🔰",
+    "rank": "🏆",
+    "fun": "😛",
+    "game": "🎮",
+    "giveaway": "🎉",
+    "ticket": "🎟️",
+    "utility": "🏫",
+    "report": "📝"
+  },
+  "p_react":{
+    "view": "946722714050236438",
+    "info": "954249339243462696",
+    "music": "962663383923048478",
+    "setup": "953908584985559040",
+    "mod": "953183698176581684",
+    "rank": "954246762749644812",
+    "fun": "😛",
+    "game": "953183400838201364",
+    "giveaway": "953697567244427295",
+    "ticket": "🎟️",
+    "utility": "954251695788011560",
+    "report": "954276352746471444"
+  },
+  "music": {
+    "searching": "🔍",
+    "play": "▶️",
+    "playImg": "https://images-ext-1.discordapp.net/external/DkPCBVBHBDJC8xHHCF2G7-rJXnTwj_qs78udThL8Cy0/%3Fv%3D1/https/cdn.discordapp.com/emojis/859459305152708630.gif",
+    "pause": "⏸️",
+    "resume": "▶️",
+    "skip": "⏭️",
+    "queue": "📑",
+    "stop": "⏹",
+    "volume": "🔊",
+    "loop": "🔂",
+    "autoplay": "🔁",
+    "shuffle": "🔀",
+    "addrelatedsong": "🎧",
+    "less10Sec": "⏪",
+    "forward10Sec": "⏩",
+    "negative10vol": "🔉",
+    "plus10vol": "🔊"
+  },
+  "musicButtons": {
+    "pause": "⏸️",
+    "resume": "▶️",
+    "skip": "⏭️",
+    "queue": "📑",
+    "lyrics": "📝",
+    "stop": "⏹",
+    "loop": "🔂",
+    "autoplay": "🔁",
+    "shuffle": "🔀",
+    "less10Sec": "⏪",
+    "forward10Sec": "⏩",
+    "negative10vol": "🔉",
+    "plus10vol": "🔊"
+  },
+  "giveaway": {
+    "react": "🎉",
+    "drop": "🎁"
+  }
+}

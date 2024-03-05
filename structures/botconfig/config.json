@@ -1,0 +1,36 @@
+{
+    "env": {
+        "TOKEN": "MTE2MjcyNDQ5NjQ2NjI1MTc5Ng.Gtv_us.K8bPJD4VLXKodeWu2VIGuetaCYEb9ntkcAGuWA",
+        "PREFIX": "..",
+        "MongoDB_TOKEN": "mongodb+srv://bot:bot@cluster69.maxesgv.mongodb.net/?retryWrites=true&w=majority",
+        "INVITE": "https://discord.com/api/oauth2/authorize?client_id=1151939802074206279&permissions=8&scope=bot%20applications.commands",
+        "WEBSITE": "https://cold-devs.b-solon-samuel.repl.co",
+        "google_API": "AIzaSyDId_oN6acZT-UMHTfYEZUgIcl4GVn1s6g",
+        "google_Engine_id": "2166875ec165a6c21",
+        "news_API": "94017eeabd5946ada0303d205c4798ee",
+        "giphy_API": "xsBNwSedRrwrwn1ZyjVRta93i00yhpiJ" ,
+        "spotify_clientSecret": "bcca82f42930498aa385a8289fdf276b",
+        "spotify_clientID": "cb41529dc3bd4d8f8a240dbee0fff4e8"
+    },
+    "music": {
+        "musicRequestImage": "https://cdn.discordapp.com/attachments/989206966092058654/1009111621647478863/spotify_gif.gif",
+        "youtubeCookie": "VISITOR_INFO1_LIVE=VUFpGJonyhY; VISITOR_PRIVACY_METADATA=CgJUThICGgA%3D; LOGIN_INFO=AFmmF2swRQIhAIKgNc-doZkfmFBGuoUBHmShyG2yXBo0AWydvhkC4a74AiARQN-VlCop-fwteI9S44YLZsyDyx9SXyQHiZIuzlpIsQ:QUQ3MjNmeEE1WmJ4bGhqZ25JS0ZhcUhUV1NQQXJiM0NrMnptUkF1RmtrcGo5Vkhja0xWVjAzb1pCamhKYW9pY21EVnk1SF9aNW16N0hTM2N4WFBPdTBvd1dnc25KcnN6cklGVUJYU1VtN2QyVVVPT0NOMERYSl9aUVFhRGRDUUV4QjM3YkFRazlHNUF0SXVsOThuVTN3eGRtZ0xjQl9LMnNB; HSID=AC1j4f0WHosuY3uiu; SSID=AXykgy_5p1DU2wZIi; APISID=csveEaiAFW7p6PAp/AWbW_5AooV2TAKRWA; SAPISID=uKDY6_8WoeC_qeTN/Ai8WGtIk559YEqlnD; __Secure-1PAPISID=uKDY6_8WoeC_qeTN/Ai8WGtIk559YEqlnD; __Secure-3PAPISID=uKDY6_8WoeC_qeTN/Ai8WGtIk559YEqlnD; SID=aQhHihxqMSaq2-BJ4zTDEt4PKr4KldsXHgg_L3KeW0N76FE0xJy1G6ZsFhi84ZLFCEYr9g.; __Secure-1PSID=aQhHihxqMSaq2-BJ4zTDEt4PKr4KldsXHgg_L3KeW0N76FE0dmbFGX5Y4WlMYiInGttMWg.; __Secure-3PSID=aQhHihxqMSaq2-BJ4zTDEt4PKr4KldsXHgg_L3KeW0N76FE0bEVA1kCHaGK-ATbiawaqOw.; PREF=f6=40000000&tz=Africa.Lagos&f7=100&f5=20000; YSC=8IPjLk347i4; __Secure-1PSIDTS=sidts-CjEBSAxbGcc4r8vY6KKgGEZoYm7iOJXC-UNrhttck6i1odxQ7BBjFKV70Xn8dV2BAocpEAA; __Secure-3PSIDTS=sidts-CjEBSAxbGcc4r8vY6KKgGEZoYm7iOJXC-UNrhttck6i1odxQ7BBjFKV70Xn8dV2BAocpEAA; SIDCC=APoG2W_BIWjh3b-LfkBBljMMPaBMQ64F8RJciLsJdaxYD3351MBsvWKK8wUDQzv868KFf83xAg; __Secure-1PSIDCC=APoG2W8L2-LcCPpjt4jqFbg845DN8Mv7tt3vpzo_7H8MhDG_AEZ1njm7VvDepDuKn1dh4oaZbA; __Secure-3PSIDCC=APoG2W-NF3eDrFT5beesaeeUj2EAMQc83I6zHYbqwNKE4A5KnlFRiRjLKKebGh33Vce9cCR41go"
+    },
+    "botlogs": {
+        "inviteLogs": "1151941839990038569",
+        "feedbackChannel": "1151941800093831228",
+        "bugChannel": "1151941762500268032",
+        "suggestionChannel": "1151941720183943260",
+        "commandLogsChannel": "1151941658993229895",
+        "errorLogsChannel": "1151941628894916718",
+        "premiumLogChannel": "1151941591431381093"
+    },
+    "events": {
+        "Enable_debug": false
+    },
+    "Premium_Activator": "1162721623359627435", 
+    "ownerID": ["720001232403562597" , "904816038259077190" , "879023940440313918"],
+    "SlashCommandsGlobal": true,
+    "SlashCommand_Server_id": "1162724496466251796",
+    "Enable_MongoDB": true
+}
